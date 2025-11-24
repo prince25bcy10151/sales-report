@@ -1,4 +1,4 @@
-# 📝 Project Statement
+#  Project Statement
 
 ## **Project Title: Sales Management System**
 
@@ -39,4 +39,5 @@ The primary target users are individuals or small businesses needing a basic dig
 
 1.  **Inventory Management:** Features for adding products and maintaining stock levels. [cite_start](Relates to Data input & processing [cite: 26] [cite_start]and CRUD operations [cite: 29]).
 2.  **Transaction Processing:** Features to record a sale, calculate the total bill, and reduce stock instantly. [cite_start](Involves a Clear input/output structure [cite: 22]).
+
 3.  **Alerting & Reporting:** Features including automatic low-stock alerts and the generation of a detailed sales summary report. [cite_start](Relates to Reporting or analytics [cite: 28]).
